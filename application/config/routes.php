@@ -56,4 +56,4 @@ $route['translate_uri_dashes'] = false;
 /*
  * Admin Routes
  */
-$route['admin'] = 'admin/auth';
+$route['admin'] = 'admin/anasayfa';
